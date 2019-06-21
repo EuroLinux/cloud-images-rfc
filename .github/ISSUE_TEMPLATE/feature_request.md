@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this vagrant boxes
+about: Suggest an idea
 title: "[IDEA]"
 labels: enhancement
 assignees: ''
