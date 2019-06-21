@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-** Vagrant Box **
+**Vagrant Box**
 Vagrant Box version, Vagrant Version, Vagrant provider.
 
 **Vagrantfile**
