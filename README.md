@@ -1,4 +1,4 @@
-# cloud-images-rf
+# cloud-images-rfc
 This repository contains Requests for Change in EuroLinux made cloud images.
 Each RFC should be made as an issue.
 
