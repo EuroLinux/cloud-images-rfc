@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report bug in vagrant box
+about: Report bug in cloud image
 title: "[BUG]"
 labels: bug
 assignees: ''
@@ -10,14 +10,11 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Vagrant Box**
-Vagrant Box version, Vagrant Version, Vagrant provider.
+**Cloud Image**
+Version && Provider(Vagrant, AWS, Azure)
 
-**Vagrantfile**
-```
-Insert your Vagrantfile here
-```
 **To Reproduce**
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
